@@ -1,0 +1,2419 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE score-partwise PUBLIC
+"-//Recordare//DTD MusicXML 3.1 Partwise//EN"
+"http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="3.1">
+<part-list>
+	<score-part id="Right"></score-part>
+	<score-part id="Left"></score-part>
+</part-list>
+<part id="Right">
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>G</sign>
+    <line>2</line>
+   </clef>
+ </attributes>
+ <note>
+  <pitch>
+   <step>G</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>E</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>C</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>G</sign>
+    <line>2</line>
+   </clef>
+ </attributes>
+ <note>
+  <pitch>
+   <step>D</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>E</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>C</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>B</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>G</sign>
+    <line>2</line>
+   </clef>
+ </attributes>
+</measure>
+ <note>
+  <pitch>
+   <step>A</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>A</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>A</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>G</sign>
+    <line>2</line>
+   </clef>
+ </attributes>
+</measure>
+ <note>
+  <pitch>
+   <step>D</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>D</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>E</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>G</sign>
+    <line>2</line>
+   </clef>
+ </attributes>
+</measure>
+ <note>
+  <pitch>
+   <step>D</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>B</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>G</sign>
+    <line>2</line>
+   </clef>
+ </attributes>
+</measure>
+ <note>
+  <pitch>
+   <step>D</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>G</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>D</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>G</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>E</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>G</sign>
+    <line>2</line>
+   </clef>
+ </attributes>
+</measure>
+ <note>
+  <pitch>
+   <step>D</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>E</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>F</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>D</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>E</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>G</sign>
+    <line>2</line>
+   </clef>
+ </attributes>
+ <note>
+  <pitch>
+   <step>D</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>E</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>A</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>G</sign>
+    <line>2</line>
+   </clef>
+ </attributes>
+</measure>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>E</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>G</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+ <note>
+  <rest/>
+ <duration>1</duration>
+ </note>
+</measure>
+ <note>
+  <pitch>
+   <step>G</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>A</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>1</duration>
+ <tie type="start"/>
+ </note>
+</measure>
+</measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>G</sign>
+    <line>2</line>
+   </clef>
+ </attributes>
+</measure>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>A</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>1</duration>
+ <tie type="end"/>
+ </note>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>D</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>D</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>B</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>G</sign>
+    <line>2</line>
+   </clef>
+ </attributes>
+</measure>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>G</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>G</sign>
+    <line>2</line>
+   </clef>
+ </attributes>
+</measure>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>E</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>C</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>E</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>C</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>G</sign>
+    <line>2</line>
+   </clef>
+ </attributes>
+</measure>
+ <note>
+  <pitch>
+   <step>B</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>D</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>D</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>B</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>G</sign>
+    <line>2</line>
+   </clef>
+ </attributes>
+</measure>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>B</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>A</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>G</sign>
+    <line>2</line>
+   </clef>
+ </attributes>
+</measure>
+ <note>
+  <pitch>
+   <step>G</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>D</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>D</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>D</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>G</sign>
+    <line>2</line>
+   </clef>
+ </attributes>
+</measure>
+ <note>
+  <pitch>
+   <step>E</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+ <note>
+  <rest/>
+ <duration>1</duration>
+ </note>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>E</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>D</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>1</duration>
+ <tie type="start"/>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>E</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>1</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>C</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>1</duration>
+ </note>
+</measure>
+</measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>G</sign>
+    <line>2</line>
+   </clef>
+ </attributes>
+</measure>
+</measure>
+</measure>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>1</duration>
+ <tie type="end"/>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>E</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>1</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>C</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>1</duration>
+ </note>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>E</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>G</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>D</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>G</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>G</sign>
+    <line>2</line>
+   </clef>
+ </attributes>
+</measure>
+ <note>
+  <pitch>
+   <step>D</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>G</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>G</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>A</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>G</sign>
+    <line>2</line>
+   </clef>
+ </attributes>
+</measure>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>D</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>D</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>B</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>G</sign>
+    <line>2</line>
+   </clef>
+ </attributes>
+</measure>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>G</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>G</sign>
+    <line>2</line>
+   </clef>
+ </attributes>
+</measure>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>D</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+</measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>G</sign>
+    <line>2</line>
+   </clef>
+ </attributes>
+ <note>
+  <pitch>
+   <step>B</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>A</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>A</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>G</sign>
+    <line>2</line>
+   </clef>
+ </attributes>
+</measure>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>A</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>D</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>D</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>G</sign>
+    <line>2</line>
+   </clef>
+ </attributes>
+ <note>
+  <rest/>
+ <duration>1</duration>
+ </note>
+</measure>
+ <note>
+  <pitch>
+   <step>E</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>D</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>1</duration>
+ <tie type="start"/>
+ </note>
+</measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>G</sign>
+    <line>2</line>
+   </clef>
+ </attributes>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>1</duration>
+ <tie type="end"/>
+ </note>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>B</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>G</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>G</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+</measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>G</sign>
+    <line>2</line>
+   </clef>
+ </attributes>
+</measure>
+ <note>
+  <pitch>
+   <step>E</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>E</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>F</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>G</sign>
+    <line>2</line>
+   </clef>
+ </attributes>
+</measure>
+ <note>
+  <pitch>
+   <step>E</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>D</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>G</sign>
+    <line>2</line>
+   </clef>
+ </attributes>
+</measure>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>A</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>G</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>G</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>G</sign>
+    <line>2</line>
+   </clef>
+ </attributes>
+</measure>
+ <note>
+  <pitch>
+   <step>A</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>D</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+</measure>
+ <note>
+  <pitch>
+   <step>D</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>B</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>G</sign>
+    <line>2</line>
+   </clef>
+ </attributes>
+</measure>
+ <note>
+  <pitch>
+   <step>C</step>
+   <octave>4</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+ <note>
+  <chord/>
+  <pitch>
+   <step>C</step>
+   <octave>5</octave>
+  </pitch>
+ <duration>2</duration>
+ </note>
+</measure>
+</measure>
+  </part>
+  <part id="Left">
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>F</sign>
+    <line>4</line>
+   </clef>
+ </attributes>
+      <note>
+        <rest/>
+        <duration>2</duration>
+      </note>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>F</sign>
+    <line>4</line>
+   </clef>
+ </attributes>
+      <note>
+        <rest/>
+        <duration>2</duration>
+      </note>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+      <note>
+        <rest/>
+        <duration>2</duration>
+      </note>
+    </measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>F</sign>
+    <line>4</line>
+   </clef>
+ </attributes>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>F</sign>
+    <line>4</line>
+   </clef>
+ </attributes>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+      <note>
+        <rest/>
+        <duration>2</duration>
+      </note>
+    </measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>F</sign>
+    <line>4</line>
+   </clef>
+ </attributes>
+    </measure>
+    </measure>
+    </measure>
+      <note>
+        <rest/>
+        <duration>2</duration>
+      </note>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>F</sign>
+    <line>4</line>
+   </clef>
+ </attributes>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>F</sign>
+    <line>4</line>
+   </clef>
+ </attributes>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+      <note>
+        <rest/>
+        <duration>2</duration>
+      </note>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>F</sign>
+    <line>4</line>
+   </clef>
+ </attributes>
+      <note>
+        <rest/>
+        <duration>2</duration>
+      </note>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>F</sign>
+    <line>4</line>
+   </clef>
+ </attributes>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+      <note>
+        <rest/>
+        <duration>1</duration>
+      </note>
+    </measure>
+      <note>
+        <rest/>
+        <duration>2</duration>
+      </note>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>F</sign>
+    <line>4</line>
+   </clef>
+ </attributes>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>F</sign>
+    <line>4</line>
+   </clef>
+ </attributes>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>F</sign>
+    <line>4</line>
+   </clef>
+ </attributes>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>F</sign>
+    <line>4</line>
+   </clef>
+ </attributes>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>F</sign>
+    <line>4</line>
+   </clef>
+ </attributes>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>F</sign>
+    <line>4</line>
+   </clef>
+ </attributes>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>F</sign>
+    <line>4</line>
+   </clef>
+ </attributes>
+    </measure>
+    </measure>
+    </measure>
+      <note>
+        <rest/>
+        <duration>1</duration>
+      </note>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>F</sign>
+    <line>4</line>
+   </clef>
+ </attributes>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>F</sign>
+    <line>4</line>
+   </clef>
+ </attributes>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+      <note>
+        <rest/>
+        <duration>2</duration>
+      </note>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>F</sign>
+    <line>4</line>
+   </clef>
+ </attributes>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>F</sign>
+    <line>4</line>
+   </clef>
+ </attributes>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>F</sign>
+    <line>4</line>
+   </clef>
+ </attributes>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+      <note>
+        <rest/>
+        <duration>2</duration>
+      </note>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>F</sign>
+    <line>4</line>
+   </clef>
+ </attributes>
+      <note>
+        <rest/>
+        <duration>2</duration>
+      </note>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>F</sign>
+    <line>4</line>
+   </clef>
+ </attributes>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>F</sign>
+    <line>4</line>
+   </clef>
+ </attributes>
+      <note>
+        <rest/>
+        <duration>1</duration>
+      </note>
+    </measure>
+      <note>
+        <rest/>
+        <duration>2</duration>
+      </note>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+      <note>
+        <rest/>
+        <duration>1</duration>
+      </note>
+    </measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>F</sign>
+    <line>4</line>
+   </clef>
+ </attributes>
+      <note>
+        <rest/>
+        <duration>1</duration>
+      </note>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>F</sign>
+    <line>4</line>
+   </clef>
+ </attributes>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+      <note>
+        <rest/>
+        <duration>2</duration>
+      </note>
+    </measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>F</sign>
+    <line>4</line>
+   </clef>
+ </attributes>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+      <note>
+        <rest/>
+        <duration>2</duration>
+      </note>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>F</sign>
+    <line>4</line>
+   </clef>
+ </attributes>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+      <note>
+        <rest/>
+        <duration>2</duration>
+      </note>
+    </measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>F</sign>
+    <line>4</line>
+   </clef>
+ </attributes>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+<measure>
+ <attributes>
+  <divisions>2</divisions>
+   <time>
+    <beats>3</beats>
+    <beat-type>4</beat-type>
+   </time>
+   <clef>
+    <sign>F</sign>
+    <line>4</line>
+   </clef>
+ </attributes>
+    </measure>
+    </measure>
+    </measure>
+    </measure>
+  </part>
+</score-partwise>
